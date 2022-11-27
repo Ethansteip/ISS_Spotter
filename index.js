@@ -1,4 +1,8 @@
-// index.js
+
+/*
+* index.js - an app that will use your ip address and geo coordinates to let you know when the next 5
+* 5 ISS flyovers in your area will be!
+*/
 
 const { nextISSTimesForMyLocation } = require('./iss');
 
